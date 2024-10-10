@@ -33,7 +33,7 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Ataize/four-card-feature-section/tree/main]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
