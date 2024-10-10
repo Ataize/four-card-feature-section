@@ -53,7 +53,7 @@ This project helped solidify my understanding of CSS Grid and Flexbox, especiall
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Ataize]
+- Linkedin - [https://www.linkedin.com/in/ataizefeitosa/]
+
 
